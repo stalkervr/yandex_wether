@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Name
+Comment=Comment
+GenericName=GenericName
+Exec=com.github.stalkervr.YandexWhether %U
+Icon=com.github.stalkervr.YandexWhether
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop
