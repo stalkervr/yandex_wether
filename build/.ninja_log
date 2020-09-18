@@ -1,0 +1,12 @@
+# ninja log v5
+1	466	1600390627	data/com.github.stalkervr.YandexWhether.desktop	9e3b0be53c7b31b0
+1	474	1600390627	data/com.github.stalkervr.YandexWhether.appdata.xml	4c04826010082c36
+0	479	1600390627	com.github.stalkervr.YandexWhether@exe/src/Application.c	783c84f719b61311
+479	709	1600390627	com.github.stalkervr.YandexWhether@exe/meson-generated_src_Application.c.o	7e2ec592a183cb07
+711	808	1600390627	com.github.stalkervr.YandexWhether	b5866cd4ba389e6a
+2	298	1600391329	data/com.github.stalkervr.YandexWhether.desktop	9e3b0be53c7b31b0
+2	308	1600391329	data/com.github.stalkervr.YandexWhether.appdata.xml	4c04826010082c36
+0	274	0	meson-uninstall	cc991f1d37a0db31
+2	388	1600391711	com.github.stalkervr.YandexWhether@exe/src/Application.c	783c84f719b61311
+388	610	1600391712	com.github.stalkervr.YandexWhether@exe/meson-generated_src_Application.c.o	7e2ec592a183cb07
+610	709	1600391712	com.github.stalkervr.YandexWhether	b5866cd4ba389e6a
